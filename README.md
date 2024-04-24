@@ -1,4 +1,4 @@
-# CS6140 Assignment 3
+# Machine Learning Optimization Models
 
 ## Overview
 This assignment dives into the realm of optimization problems and machine learning, exploring both theoretical concepts and practical implementations. We tackle linear programming duality with the Complementary Slackness condition, visualize decision boundaries using Support Vector Machines (SVM), and implement Multi-Layer Perceptrons (MLP) for complex classification tasks.
